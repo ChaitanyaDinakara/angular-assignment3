@@ -1,0 +1,16 @@
+.Form {
+    min-width: 100px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+    color: red;
+    background-color: wheat;
+  }
+  
+.mat-radio-button {
+    margin-left: 16px;
+    color: aqua;
+  }
